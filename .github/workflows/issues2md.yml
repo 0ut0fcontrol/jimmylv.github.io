@@ -1,5 +1,5 @@
 # .github/workflows/issues2md.yml
-# triger actions
+# triger actions again
 name: Issues2Markdown
 on:
   push:
