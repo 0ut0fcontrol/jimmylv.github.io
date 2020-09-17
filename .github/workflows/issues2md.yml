@@ -1,7 +1,7 @@
 # .github/workflows/issues2md.yml
 name: Issues2Markdown
 on:
-  push: # for debug only
+  # push: # uncomment for debugging
   schedule:
     # every day
     - cron: "0 0 * * *"
