@@ -1,4 +1,4 @@
-Export of Github issues for [0ut0fcontrol/jimmylv.github.io](https://github.com/0ut0fcontrol/jimmylv.github.io). Generated on 2020.09.27 at 00:55:20.
+Export of Github issues for [0ut0fcontrol/jimmylv.github.io](https://github.com/0ut0fcontrol/jimmylv.github.io). Generated on 2020.09.28 at 00:54:12.
 
 # [\#1 Issue](https://github.com/0ut0fcontrol/jimmylv.github.io/issues/1) `open`: test gh2md
 
